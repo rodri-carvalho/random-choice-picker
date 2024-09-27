@@ -23,7 +23,8 @@ h3 {
 }
 
 .container {
-    width: 500px;
+    max-width: 100vh;
+    margin: 0 20px;
 }
 
 textarea {
